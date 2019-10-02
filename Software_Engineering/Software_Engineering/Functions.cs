@@ -22,7 +22,6 @@ namespace Software_Engineering
 
             while (UserInput != "q")
             {
-
                 Console.Write($" \n Getal {counter}:  ");
                 counter++;
                 UserInput = Console.ReadLine();
@@ -32,7 +31,6 @@ namespace Software_Engineering
                     MijnGetallen.Add(Convert.ToInt32(UserInput));
                 }
             }
-
 
             Console.WriteLine("Berekenen....");
 
@@ -45,26 +43,10 @@ namespace Software_Engineering
 
 
             Console.Clear();
-
-
             Console.WriteLine("########################");
             Console.WriteLine($"Uw Uitkomst = {Result}");
-
             Console.ReadKey();
-
-
-
-
-
-
-
-
-
-
-
             return Result;
-
-
         }
 
 
