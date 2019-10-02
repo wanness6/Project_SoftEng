@@ -8,7 +8,8 @@ namespace Software_Engineering
         {
 
             int mijngetal = Functions.AverageFuntion();
-
+            int getal = Functions.mediaan();
+            
         }
     }
 }
