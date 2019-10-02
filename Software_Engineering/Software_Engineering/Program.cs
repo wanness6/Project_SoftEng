@@ -6,7 +6,9 @@ namespace Software_Engineering
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            int mijngetal = Functions.AverageFuntion();
+
         }
     }
 }

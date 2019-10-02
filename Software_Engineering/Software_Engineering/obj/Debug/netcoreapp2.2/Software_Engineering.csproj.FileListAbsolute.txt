@@ -1,0 +1,11 @@
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\bin\Debug\netcoreapp2.2\Software_Engineering.deps.json
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\bin\Debug\netcoreapp2.2\Software_Engineering.runtimeconfig.json
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\bin\Debug\netcoreapp2.2\Software_Engineering.runtimeconfig.dev.json
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\bin\Debug\netcoreapp2.2\Software_Engineering.dll
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\bin\Debug\netcoreapp2.2\Software_Engineering.pdb
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.csprojAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.dll
+C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.pdb
