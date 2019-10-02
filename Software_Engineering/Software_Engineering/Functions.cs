@@ -51,11 +51,11 @@ namespace Software_Engineering
         static public int mediaan()
         {
             int Result = 0;
-        List<int> Getallen = new List<int>();
+            List<int> Getallen = new List<int>();
 
-        string UserInput = "";
-        int counter = 1;
-        Console.WriteLine("mediaan Calculator 1");
+            string UserInput = "";
+            int counter = 1;
+            Console.WriteLine("mediaan Calculator 1");
             Console.WriteLine($"je geeft alle getallen op en geeft een 'q' als je alle getallen hebt toegevoegd");
             Console.ReadKey();
             Console.Clear();
@@ -71,13 +71,12 @@ namespace Software_Engineering
                 {
                     Getallen.Add(Convert.ToInt32(UserInput));
                 }
-}
+            }
 
-Console.WriteLine("Berekenen....");
+            Console.WriteLine("Berekenen....");
 
-            
 
-            Result = Getallen.Count/2;
+            Result = Getallen.Count / 2;
 
 
             Console.Clear();
