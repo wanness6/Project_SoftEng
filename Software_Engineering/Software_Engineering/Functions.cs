@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace Software_Engineering
@@ -9,7 +9,8 @@ namespace Software_Engineering
 
         static public int AverageFuntion()
         {
-            int Result = 0;
+            int Resultaat = 0;
+            int oplossing=0;
             List<int> MijnGetallen = new List<int>();
 
             string UserInput = "";
@@ -38,17 +39,17 @@ namespace Software_Engineering
 
             foreach (int Getal in MijnGetallen)
             {
-                Result += Getal;
+                Resultaat += Getal;
             }
 
-            Result = Result / MijnGetallen.Count;
-
+            Resultaat = Resultaat / MijnGetallen.Count;
+            oplossing = MijnGetallen[Resultaat];
 
             Console.Clear();
 
 
             Console.WriteLine("########################");
-            Console.WriteLine($"Uw Uitkomst = {Result}");
+            Console.WriteLine($"Uw Uitkomst = {oplossing}");
 
             Console.ReadKey();
 
@@ -62,7 +63,7 @@ namespace Software_Engineering
 
 
 
-            return Result;
+            return oplossing;
 
 
         }
