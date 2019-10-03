@@ -78,7 +78,7 @@ namespace Software_Engineering
 
 
             Resultaat = Getallen.Count / 2;
-            oplossing = Getallen[Resultaat]
+            oplossing = Getallen[Resultaat];
 
             Console.Clear();
             Console.WriteLine("########################");
