@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace Software_Engineering
@@ -50,7 +50,8 @@ namespace Software_Engineering
         }
         static public int mediaan()
         {
-            int Result = 0;
+            int oplossing = 0;
+            int Resultaat = 0;
             List<int> Getallen = new List<int>();
 
             string UserInput = "";
@@ -76,14 +77,14 @@ namespace Software_Engineering
             Console.WriteLine("Berekenen....");
 
 
-            Result = Getallen.Count / 2;
-
+            Resultaat = Getallen.Count / 2;
+            oplossing = Getallen[Resultaat]
 
             Console.Clear();
             Console.WriteLine("########################");
-            Console.WriteLine($"Uw Uitkomst = {Result}");
+            Console.WriteLine($"Uw Uitkomst = {oplossing}");
             Console.ReadKey();
-            return Result;
+            return oplossing;
         }
 
 
