@@ -50,13 +50,20 @@ namespace Software_Engineering
             Console.ReadKey();
             return Result;
         }
-        static public int mediaan()
-        {
-            int Result = 0;
-            List<int> Getallen = new List<int>();
-
-            string UserInput = "";
-            int counter = 1;
+        static public int mediaan()
+
+        {
+
+            int Result = 0;
+
+            List<int> Getallen = new List<int>();
+
+
+
+            string UserInput = "";
+
+            int counter = 1;
+
             Console.WriteLine("mediaan Calculator 1");
             Console.WriteLine($"je geeft alle getallen op en geeft een 'q' als je alle getallen hebt toegevoegd");
             Console.ReadKey();
@@ -72,12 +79,18 @@ namespace Software_Engineering
                 if (UserInput != "q")
                 {
                     Getallen.Add(Convert.ToInt32(UserInput));
-                }
-            }
-
-            Console.WriteLine("Berekenen....");
-
-
+                }
+
+            }
+
+
+
+            Console.WriteLine("Berekenen....");
+
+
+
+
+
             Result = Getallen.Count / 2;
 
 

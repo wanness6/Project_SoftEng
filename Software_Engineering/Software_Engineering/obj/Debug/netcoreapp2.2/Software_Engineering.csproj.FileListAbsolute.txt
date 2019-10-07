@@ -9,3 +9,8 @@ C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Softw
 C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.AssemblyInfo.cs
 C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.dll
 C:\Users\Mohamed\Desktop\Repositories\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.pdb
+C:\Users\Rafaël\Documents\Software Engeneering\Github\Groep\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.csproj.CoreCompileInputs.cache
+C:\Users\Rafaël\Documents\Software Engeneering\Github\Groep\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.AssemblyInfoInputs.cache
+C:\Users\Rafaël\Documents\Software Engeneering\Github\Groep\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.AssemblyInfo.cs
+C:\Users\Rafaël\Documents\Software Engeneering\Github\Groep\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.dll
+C:\Users\Rafaël\Documents\Software Engeneering\Github\Groep\Project_SoftEng\Software_Engineering\Software_Engineering\obj\Debug\netcoreapp2.2\Software_Engineering.pdb
