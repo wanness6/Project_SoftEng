@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v2.2": []
   },
   "packageFolders": {
-    "C:\\Users\\wannes\\.nuget\\packages\\": {}
+    "C:\\Users\\Mohamed\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\2019-2020\\Project_SoftEng\\Software_Engineering\\Software_Engineering\\Software_Engineering.csproj",
+      "projectUniqueName": "C:\\Users\\Mohamed\\Desktop\\Projecten\\Project_SoftEng\\Software_Engineering\\Software_Engineering\\Software_Engineering.csproj",
       "projectName": "Software_Engineering",
-      "projectPath": "D:\\Users\\2019-2020\\Project_SoftEng\\Software_Engineering\\Software_Engineering\\Software_Engineering.csproj",
-      "packagesPath": "C:\\Users\\wannes\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\2019-2020\\Project_SoftEng\\Software_Engineering\\Software_Engineering\\obj\\",
+      "projectPath": "C:\\Users\\Mohamed\\Desktop\\Projecten\\Project_SoftEng\\Software_Engineering\\Software_Engineering\\Software_Engineering.csproj",
+      "packagesPath": "C:\\Users\\Mohamed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mohamed\\Desktop\\Projecten\\Project_SoftEng\\Software_Engineering\\Software_Engineering\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\wannes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -34,10 +38,21 @@
         "netcoreapp2.2": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
-      "netcoreapp2.2": {}
+      "netcoreapp2.2": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
     }
   }
 }
